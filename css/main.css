@@ -411,6 +411,8 @@ h6, .h6 {
   font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2;
+  text-align: center;
+  color: orange;
 }
 
 .display-4 {
@@ -8551,3 +8553,20 @@ Text Domain: orbitthemes.com
 #main {
   background: #fff;
 }
+/*  MINHAS MUDANCAS NO CSS DO BOOTSTRAP
+
+    line 414, 415 = color e text-align
+*/
+
+/* MINHAS CLASSES CRIADAS */
+
+.intro-text {
+  font-size: 150%;
+  text-align: center;
+}
+
+.text-color-h2 {
+  color: darkorange;
+}
+
+
