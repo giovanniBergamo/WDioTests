@@ -413,6 +413,7 @@ h6, .h6 {
   line-height: 1.2;
   text-align: center;
   color: orange;
+  padding-top: 5%;
 }
 
 .display-4 {
@@ -8557,7 +8558,7 @@ Text Domain: orbitthemes.com
 
 /*  MINHAS MUDANCAS NO CSS DO BOOTSTRAP
 
-    line 414, 415 = color e text-align
+    line 414, 415, 416 = color, text-align, padding-top
 */
 
 /* MINHAS CLASSES CRIADAS */
