@@ -8553,6 +8553,8 @@ Text Domain: orbitthemes.com
 #main {
   background: #fff;
 }
+
+
 /*  MINHAS MUDANCAS NO CSS DO BOOTSTRAP
 
     line 414, 415 = color e text-align
@@ -8561,12 +8563,27 @@ Text Domain: orbitthemes.com
 /* MINHAS CLASSES CRIADAS */
 
 .intro-text {
-  font-size: 150%;
+  font-size: 170%;
   text-align: center;
 }
 
 .text-color-h2 {
   color: darkorange;
 }
+
+.button-center {
+  text-align: center;
+}
+
+.titulo-intro {
+  font-size: 125%;
+  font-style: italic;
+}
+
+.conteudo-intro {
+  text-align: justify;
+}
+
+/* MINHAS ID's CRIADAS */
 
 
